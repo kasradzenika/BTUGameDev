@@ -1,3 +1,7 @@
 line 1
+<<<<<<< HEAD
 this is not a line
+=======
+line 9
+>>>>>>> ab92164b56cc472a584e4cec607f35974a0fae60
 line 3
