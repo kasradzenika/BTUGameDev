@@ -1,4 +1,3 @@
 line 1
-this is my change
-line whatever
+now conflicting with external merge tool
 line 3
